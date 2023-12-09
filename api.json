@@ -1,4 +1,5 @@
 {
-    "clientVersionCode": 3,
-    "URL_CLIENT": "http://45.130.141.211/api/launcher.apk"
+    "status": 1,
+    "clientVersionCode": 1,
+    "URL_CLIENT": "http:/145.130.141.211/api/launcher.apk"
 }
